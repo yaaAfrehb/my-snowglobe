@@ -4,12 +4,13 @@ const message = document.querySelector("#message");
 
 
 const messages = [
-  "you are someone's favourite person to sit next to.",
-  "the thing you are building counts, even half finished.",
-  "you are allowed to be a beginner for as long as you need.",
-  "someone is going to love what you make with this.",
-  "hot chocolate tastes better after a hard day. you've earned one.",
-  "you ask good questions. that is the whole skill.",
+  "Screw you guys, I'm going home!",
+  "Respect my authoritah!",
+  "No, kitty, this is my pot pie!" ,
+ "Words cannot express how much I hate you guys.",
+  "I'm not fat, I'm big-boned",
+  "Are you sure? Are you HIV Positive?",
+  "Mem, Mem!"
 ];
 
 button.addEventListener("click", () => {
