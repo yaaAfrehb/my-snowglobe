@@ -109,7 +109,7 @@ main {
   font-style: italic;
 }
 
-.globe {
+/* .globe {
   width: 12rem;
   height: 12rem;
   border-radius: 50%;
@@ -117,7 +117,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
+ 
 
 .scene {
   width: 78%;
