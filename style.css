@@ -92,8 +92,8 @@ main {
 
 
 .globe {
-    width: 12rem;
-    height: 12rem;
+    width: 15rem;
+    height: 15rem;
     border-radius: 50%;
     display: flex;
     align-items: center;
