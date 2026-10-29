@@ -3,7 +3,7 @@
 I made this using the easy guide from the Snowglobe website
 
 ## Purpose
-Don't really know but to look at a fuuny, big-boned boy I guess?
+Don't really know but to look at a funny, big-boned boy I guess?
 
 ## Surprise
 There's a little surprise with one of the messages. Keep clicking to see!
