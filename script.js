@@ -8,7 +8,7 @@ const audio = new Audio();
 
 const scenes = [
   {
-    image: "cartman.png",
+    image: "carts.png",
     message: "Screw you guys, I'm going home!",
     sound: "audio/quote1.mp3"
   },
@@ -18,7 +18,7 @@ const scenes = [
     sound: "audio/authoritah.mp3"
   },
   {
-    image: "cartman.png",
+    image: "cart.png",
     message: "Words cannot express how much I hate you guys.",
     sound: "audio/quote4.mp3"
   },
@@ -33,7 +33,7 @@ const scenes = [
     sound: "audio/quote6.mp3"
   },
   {
-    image: "cartman.png",
+    image: "carts.png",
     message: "Mem, Mem!",
     sound: "audio/quote7.mp3"
   }
