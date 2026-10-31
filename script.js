@@ -18,9 +18,9 @@ const scenes = [
     sound: "audio/authoritah.mp3"
   },
   {
-    image: "cartman.png",
-    message: "Words cannot express how much I hate you guys.",
-    sound: "audio/quote4.mp3"
+    //image: "cartman.png",
+    //message: "Words cannot express how much I hate you guys.",
+    //sound: "audio/quote4.mp3"
   },
   {
     image: "carts.png",
