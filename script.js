@@ -18,12 +18,12 @@ const scenes = [
     sound: "audio/authoritah.mp3"
   },
   {
-    image: "cart.png",
+    image: "cartman.png",
     message: "Words cannot express how much I hate you guys.",
     sound: "audio/quote4.mp3"
   },
   {
-    image: "cartman.png",
+    image: "carts.png",
     message: "I'm not fat, I'm big-boned",
     sound: "audio/quote5.mp3"
   },
